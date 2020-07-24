@@ -1,0 +1,14 @@
+﻿{
+  "Version": "12.4.1",
+  "Name": "AlbaySIMSEK Image Upload",
+  "DestinationType": "ImageUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "upload.php_url",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "key": "YOUR_SECRET_KEY"
+  },
+  "FileFormName": "image",
+  "URL": "$json:url$",
+  "DeletionURL": "$json:deletion_url$"
+}
