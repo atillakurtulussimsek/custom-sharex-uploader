@@ -10,5 +10,4 @@
   },
   "FileFormName": "image",
   "URL": "$json:url$",
-  "DeletionURL": "$json:deletion_url$"
 }
