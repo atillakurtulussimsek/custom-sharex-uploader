@@ -1,17 +1,17 @@
-# Custom ShareX Uploader
+# <img src="https://image.flaticon.com/icons/svg/892/892311.svg" width="25px"> ShareX Custom Uploader
+-------
+## <img src="https://image.flaticon.com/icons/svg/2476/2476199.svg" width="25px"> Why I will need this?
+This Custom Uploader will help you to upload your pictures created with **ShareX or other programs like MagiCap** to your own website
 
-Hello there,
+## How to use it?
+ * First fill the specified variables properly and correctly in the upload.php File
+ * Then you need to change the Config.scxu file to the settings that we defined in our Upload.php
+ * Finally transfer the file __upload.php__ to your website and open the **changed** Config.sxcu file and test it
 
-Note that you need a program similar to ShareX first to use the custom installation tool!
+## DONT FORGET
+ 🕵️‍♂️The SecretKey is yours dont publish it or give it someone else
+ <p><img src="https://image.flaticon.com/icons/svg/892/892311.svg" width="25px"> Make sure your settings are correct and the upload.php file has all permissions(777)</p>
 
-If you follow the steps below correctly, you can simply have a special installation system.
+## Did you fail?
+[<p><img src="https://image.flaticon.com/icons/svg/2111/2111370.svg" width="25px"> Join our Discord for questions</p>](https://discord.gg/Wh4kJ4x)
 
-- Fill in the specified areas properly and correctly. (upload.php)
-- You will see 2 parts in the settings file. You should write the address of the upload.php file on your site in the url section. Otherwise, the installation process will fail.
-- Be sure not to share your secret key with anyone. This can have bad consequences for you. I do not take responsibility..!
-- Make sure your all settings are correct and make your first try! Is it successful, congratulations!
-
--- Oh, no! Did it fail? Do not worry, first grant full authority to your upload.php file from your file manager (777) and try again. If it fails, please open a issue.
-
-### Just a few simple steps ... It's that easy!
- 
